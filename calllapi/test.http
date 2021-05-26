@@ -1,0 +1,26 @@
+GET http://localhost:3574/AdsSwitch/GetSwitch?UROWx13Y1FJpJHiJirT92lkANEXlUHh+sTq1oWif3jCLZVxWmrKoawtQnAi6dtZukRwpQwr0A8kdKD/6l/+2O5TGmJx9aikk7cbG1cohxter8Orm4UybLpGLekM6j+WNK8YUufJPuy9d7+34MeR4OmJ+ffJMPIPl9mpnO0+8enDYIpwYXOMkw0629zSOMaXraU1OGiRZ7XbCysMqRvLovrOI409YYccrfdNAlpY6LvpV/CcOpIYLch1897mMt5ianZg9V4copOh/pJgvzFGxUsaYphafWWU2CwUZXPZfQQtkERCjdbFmpwfLhYri0/RdI5l+eO629qCG7q+Z4Ts8+zSnZCx7govjGWxLdZ7GoqOH83MPJUWRfe5iXmJMFcVI1/dLnNu+WmHGc5t7473vy73buvhfdt9FF7K1aICMoFii0fLv4ji26GakJxLz8ZC1GLAkj3dLKAwBfdXJSVwlge9XpUYJ6M8AXLjnY4MPfx03dpqro0VQT7H3qzcJNi0JLgYNu45hYe48bCN+bkp1Gg==
+x-r-a:c7qTfpiEk+rvWWpMiu88Sk2oRt5XnB4z9T4lIb5gCOmihyL9es2Do9uy8RzbE5czyQM+RMm4V0NBpzsILF3uOurA0oMwJm5Mspx6c6AbYsRC/GFJbO/J0KZtnAoX34zmOtvAR4zSPCFAW8YP/1ppD39QFUo1YXrAIDP3DKcD8Ws=
+x-c-i:13
+x-n-i:5
+
+
+http://apiqa.fangzhou-sh.net/AdsSwitch/GetSwitch?adsCode=fg_first_kp_code1&coid=13&ncoid=5&channel=0&union_id=9eda9e935b7b89fa&verName=1.5.0&verCode=1008&FirstLinkTime=1621843365&_tid=1621843374%2Cccd6885e-9b28-4e4e-83e2-c672632fac60&_sign=c1fc7e48a7045ee7438e214e36b125db
+
+
+GET http://localhost:3574/AdsSwitch/GetSwitch?nayEvhrdh%2BQStNGtm7M3RjmAEigyIh7%2FUa5Yej0Gs%2F3sym7JWdljB4CG4PmLFQ8RWqk%2Bk3ZiA7iOETLHc2NPpfYAtYxcxY17qDCbSm78mksj9cdxt%2FzC0UwN20qPHaX3WRoutZnHl59Wtau3ae%2FNAkaMrTXMi2oAJpd8RnQoySXvubTjZyKSlLj6b506cGozKllkLzvVeXUn0TJmvP8iamQbtH2M95WY4iDx4G0xW6eCBfPufN8tuzAo%2BvryNjcHWRDORKHPSLT1HehXYlGenIjV6MReVkFShPPT%2F48%2BoDU%3D
+x-r-a:C1zSoevrGdH0mkVe/Aza478fT1zjs1M42FQLhVWBeBdAbZc++ga3TXqsz3fEUGr4AJEhFJOwVpt/o/8Jww3oePFs+MjEtTqjxRfdrBD57UruUzbamdxKVe8Q+p4QJOkQwvEeeJQF5ecOyhuv/4TTZEsKLu/v0vxrsHeUwh6Doxc=
+x-c-i:13
+x-n-i:5
+
+
+
+GET http://apiqa.fangzhou-sh.net/AdsSwitch/GetSwitch?nayEvhrdh%2BQStNGtm7M3RjmAEigyIh7%2FUa5Yej0Gs%2F3sym7JWdljB4CG4PmLFQ8RWqk%2Bk3ZiA7iOETLHc2NPpfYAtYxcxY17qDCbSm78mksj9cdxt%2FzC0UwN20qPHaX3WRoutZnHl59Wtau3ae%2FNAmPnIs9CbC1Ct1Nkh9X17i8WT0Rwyvqlg8%2BAwC6HeC68 HTTP/1.1
+x-r-a: J4NfGogrNdp+0dSrtn4jjWEjZEWrY0JnAZ1gCKouz6JgO7E8RG64v4hAVEdkAf0BQtXH3vHgDbuQtL3goJDxEv/s/qbg+/d8h1OtAOkKmHQkvoVcnsNw5W0efBtKKLqMr1ahlX6md01M28xel6thFpgCAzkz783r7IaL7Rsr7cc=
+x-c-i: 13
+x-n-i: 5
+Host: apiqa.fangzhou-sh.net
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/3.14.9
+
+
